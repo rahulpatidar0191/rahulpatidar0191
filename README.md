@@ -129,6 +129,6 @@ I am fully-committed to designing and developing innovative materials. I am high
 
 
 
-📫 **How to reach me?**<br>
+## 📫 **How to reach me?**<br>
 ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-patidar-can/) 👨🏻‍💻 <br>
 ⦿ Shoot Me an [Email](rahulpatidar0191@gmail.com) 💌
