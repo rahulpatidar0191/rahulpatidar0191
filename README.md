@@ -1,9 +1,9 @@
 # Hi folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Rahul Patidar 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer+🚀&center=true&width=500&height=90"></a>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 Welcome to my GitHub Page. I am  a passionate and creative DevOps engineer 🚀 who likes turning complex problems into intuitive and simple forms 🎯
 
-<br>
 <br>
 
 I mostly work on setting up and maintaining deployment processes across multiple platforms. I build robust, secure, and scalable infrastructures using cloud-native technologies.
