@@ -80,7 +80,7 @@ I am fully-committed to designing and developing innovative materials. I am high
       
  <h3>Languages</h3>
     <a href="https://www.javascript.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/3f3912f5b5b179e1e5ff7f13e7bee579509c13f1fc121a361c6967ca43b50e07/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" height="80" data-animated-image="" style="max-width: 100%;">
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*-tOldEbfjijxn9VqZeULqg.gif" height="80" data-animated-image="" style="max-width: 100%;">
   </a>
     <a href="https://www.python.org/" rel="nofollow">
     <img src="https://www.thoughtwin.com/assets/img/Python_img.gif" height="80" data-animated-image="" style="max-width: 100%;">
