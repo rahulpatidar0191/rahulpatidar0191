@@ -8,7 +8,7 @@ Welcome to my GitHub Page. I am  a passionate and creative DevOps engineer 🚀 
 
 I mostly work on setting up and maintaining deployment processes across multiple platforms. I build robust, secure, and scalable infrastructures using cloud-native technologies.
 
-Along with my full-time job, I am also an amateur photographer and guitar player.
+Along with my full-time job, I am also an amateur photographer and a guitar player.
 
 I am fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more.
 
